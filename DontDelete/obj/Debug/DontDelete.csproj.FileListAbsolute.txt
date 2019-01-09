@@ -1,0 +1,7 @@
+c:\users\denil\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.exe.config
+c:\users\denil\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.exe
+c:\users\denil\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.pdb
+c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csprojResolveAssemblyReference.cache
+c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csproj.CoreCompileInputs.cache
+c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.exe
+c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.pdb
