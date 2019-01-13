@@ -5,3 +5,10 @@ c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csprojRes
 c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csproj.CoreCompileInputs.cache
 c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.exe
 c:\users\denil\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.pdb
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.exe.config
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.exe
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\bin\Debug\DontDelete.pdb
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csprojResolveAssemblyReference.cache
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.csproj.CoreCompileInputs.cache
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.exe
+C:\Users\Denil\Documents\Visual Studio 2017\source\repos\DontDelete\DontDelete\obj\Debug\DontDelete.pdb

@@ -9,7 +9,7 @@ namespace DontDelete
 {
     class StringOccurence
     {
-        static void Main(string[] args)
+        static void Mai(string[] args)
         {
 
             Console.WriteLine("String Occurence Program");
