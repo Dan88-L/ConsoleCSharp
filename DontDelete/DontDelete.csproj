@@ -11,6 +11,7 @@
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -23,7 +24,6 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -48,7 +48,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -57,9 +59,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Constructor\BaseDerived.cs" />
+    <Compile Include="EmailAddressAttribute.cs" />
     <Compile Include="Factorial.cs" />
+    <Compile Include="Field_Property.cs" />
+    <Compile Include="Filed.cs" />
+    <Compile Include="HandleError.cs" />
     <Compile Include="Inheritance.cs" />
+    <Compile Include="Interface\IExample.cs" />
     <Compile Include="ITIM.cs" />
+    <Compile Include="KeywordNew.cs" />
+    <Compile Include="ObjectParentDerived\BaseClass.cs" />
+    <Compile Include="ObjectParentDerived\XYZ.cs" />
+    <Compile Include="OpertaionList.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Prime.cs" />
     <Compile Include="Program.cs" />
@@ -67,6 +79,7 @@
     <Compile Include="StringOccurence.cs" />
     <Compile Include="StringOperation_A.cs" />
     <Compile Include="StringOperation_B.cs" />
+    <Compile Include="Constructor\UGStudent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

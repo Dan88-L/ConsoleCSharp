@@ -8,11 +8,25 @@ namespace DontDelete
 {
     class StringOperation_B
     {
-        static void Main(string[] args)
+
+        static string test;
+        static DateTime time;
+
+        static void Ma(string[] args)
         {
             string firstname;
             string lastname;
-            string test;
+
+
+            Console.WriteLine("Strig Operations B Program");
+
+            //when string is declared but not assigned then it will be null
+            Console.WriteLine(test == null ? "location is null" : test);
+
+            // When value type DateTime not intialized, it is initialized to the default value of midnight
+            // (yup, that’s the year 1 A.D.)
+            Console.WriteLine(time == null ? "time is null" : time.ToString());
+
             //remember strings are double quoted
             firstname = "Steven Clark";
             lastname = "Clark";

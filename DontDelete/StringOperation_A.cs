@@ -32,7 +32,7 @@ namespace DontDelete
             // It is a signed integer accepting both positive and negative
             int[] example_1 = { 1, 2, -3 };
 
-
+ 
             // It is a unsigned integer accepting only positive integers
             uint[] example_2 = new uint[] { 2, 4, 5 };
 
@@ -73,7 +73,7 @@ namespace DontDelete
 
 
             // https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/strings/
-            Console.WriteLine(limbu[0]);
+            //Console.WriteLine(limbu[0]);
  
             Console.ReadLine();
 
