@@ -59,18 +59,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Collections\Basic.cs" />
     <Compile Include="Constructor\BaseDerived.cs" />
     <Compile Include="EmailAddressAttribute.cs" />
     <Compile Include="Factorial.cs" />
     <Compile Include="Field_Property.cs" />
     <Compile Include="Filed.cs" />
+    <Compile Include="FormatSpecifier\Sample.cs" />
+    <Compile Include="Goto\Class1.cs" />
     <Compile Include="HandleError.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="Interface\IExample.cs" />
     <Compile Include="ITIM.cs" />
     <Compile Include="KeywordNew.cs" />
     <Compile Include="ObjectParentDerived\BaseClass.cs" />
-    <Compile Include="ObjectParentDerived\XYZ.cs" />
+    <Compile Include="ObjectParentDerived\ObjectInterfaceBase.cs" />
+    <Compile Include="ObjectParentDerived\ObjectBaseDerived.cs" />
     <Compile Include="OpertaionList.cs" />
     <Compile Include="Palindrome.cs" />
     <Compile Include="Prime.cs" />

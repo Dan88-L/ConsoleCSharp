@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace DontDelete.ObjectParentDerived
 {
+
+
     public class BaseClass
     {
         public int denil;
@@ -17,7 +19,6 @@ namespace DontDelete.ObjectParentDerived
 
         public int cte()
         {
-
             return 1;
         }
     }

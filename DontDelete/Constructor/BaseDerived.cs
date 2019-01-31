@@ -61,7 +61,7 @@ namespace DontDelete.Constructor
 
         }
 
-        static void Main(string[] args)
+        static void Ma(string[] args)
         {
 
             Console.WriteLine("BaseDerived Program: It shows the constructor of Base and derived class");
