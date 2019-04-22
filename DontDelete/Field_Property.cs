@@ -38,7 +38,8 @@ namespace DontDelete
                 }
                 catch(Exception e) {
 
-                    Console.WriteLine("There is an exception of  type:{0}", e);
+                    //Console.WriteLine("There is an exception of  type:{0}", e);
+                    throw e;
                 }
             }
 

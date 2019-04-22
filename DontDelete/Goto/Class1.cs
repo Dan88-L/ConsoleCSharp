@@ -8,7 +8,7 @@ namespace DontDelete.Goto
 {
     class Class1
     {
-        static void Main(string[] args)
+        static void Ma(string[] args)
         {
             Console.WriteLine("Goto: Class1 Program");
             int i = 0;

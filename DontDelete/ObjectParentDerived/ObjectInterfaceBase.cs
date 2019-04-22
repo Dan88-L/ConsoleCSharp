@@ -35,6 +35,8 @@ namespace DontDelete.ObjectParentDerived
             // Also, interface doesn't accept the fields.
             // de.samp = 43;
             // It is a good practise to use this pattern but I don't know the reason
+
+            // Now found out reason: i think it is because it can invoke the dervided method when the overriden is used
             IAnimal de = new Dog();
             de.characters(24);
 
